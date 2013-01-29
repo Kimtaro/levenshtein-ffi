@@ -14,8 +14,7 @@ Gem::Specification.new do |s|
   s.email = "dbalatero@gmail.com"
   s.extensions = ["ext/levenshtein/extconf.rb"]
   s.extra_rdoc_files = [
-    "README.markdown",
-    "README.markdown.html"
+    "README.markdown"
   ]
   s.files = [
     "CHANGELOG.markdown",
